@@ -1,3 +1,3 @@
-# Brick-Braker_Game
+# Brick-Breaker_Game
 <br>
 Author - Varun Gupta
